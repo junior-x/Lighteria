@@ -2,7 +2,7 @@
 
 v 0.0.2
 
-![Image of App](/src/assets/images/screen-v1.png)
+![Image of App](/src/assets/images/screen-v1.PNG)
 
 React Native App
 
