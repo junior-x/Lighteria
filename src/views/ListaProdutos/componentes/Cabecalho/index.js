@@ -1,5 +1,6 @@
 import React from 'react';
 import {View, StyleSheet, Text, Image} from 'react-native';
+import { COR_DE_FUNDO, FONT_FAMILY_REGULAR, FONT_SIZE_MEDIUM, FONT_SIZE_XX_LARGE } from '../../../../styles/styles';
 
 const Cabecalho = () => {
   return (
@@ -33,7 +34,7 @@ const styles = StyleSheet.create({
   },
   titulo: {
     fontFamily: 'OpenSans-Bold',
-    fontSize: 28,
+    fontSize: FONT_SIZE_XX_LARGE,
   },
   containerSacola: {
     backgroundColor: '#fff',
@@ -59,10 +60,10 @@ const styles = StyleSheet.create({
   },
   textoDescricao: {
     padding: 24,
-    backgroundColor: '#F4F0F4',
+    backgroundColor: COR_DE_FUNDO,
     color: '#A1A5AA',
-    fontFamily: 'OpenSans-Regular',
-    fontSize: 16,
+    fontFamily: FONT_FAMILY_REGULAR,
+    fontSize: FONT_SIZE_MEDIUM,
   },
 });
 
