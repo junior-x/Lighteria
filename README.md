@@ -25,4 +25,4 @@ If you need a specific version or template
 
  # 
 
-![Link]<link src="https://reactnative.dev/docs/_getting-started-linux-android">
+https://reactnative.dev/docs/_getting-started-linux-android
