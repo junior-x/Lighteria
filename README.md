@@ -1,3 +1,4 @@
+<!--Salve meu bom, fica a vontade, cê ta em casa :D-->
 # 💡 Lighteria
 
 v 0.0.2
@@ -17,7 +18,7 @@ OPEN    >_ Terminal
 
  #npx react-native init AwesomeProject
 
-If you need a specific version or template
+_If you need a specific version or template_
 
  #npx react-native init AwesomeProject --version X.XX.X
 
@@ -26,20 +27,19 @@ If you need a specific version or template
  # After installing all the basics for the project we need to add some dependences in the next steps:
  
  
- in the project dress->
+ *in the project dress->*
  
  ------
  npm install @React-navigation/native
  ------
  
- next the dependences->
+ *next the dependences->*
  
  ------
  npm install React-native-reanimated React-native-gesture-handler React-native-screens React-native-safe-area-context @React-native-community/masked-view
  ------
  
- Finaly the module links modules ->
- 
+ *Finaly the module links modules ->* 
  ------
  npx react-native link
  ------
