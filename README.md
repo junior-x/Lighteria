@@ -38,7 +38,7 @@ If you need a specific version or template
  npm install React-native-reanimated React-native-gesture-handler React-native-screens React-native-safe-area-context @React-native-community/masked-view
  ------
  
- Finaly the module links modules
+ Finaly the module links modules ->
  
  ------
  npx react-native link
