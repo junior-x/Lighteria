@@ -1,7 +1,11 @@
 <!--Salve meu bom, fica a vontade, cê ta em casa :D-->
 # 💡 Lighteria
 
-v 0.0.2
+App made it with the React-Native tecnology.
+
+`v 0.0.2`
+
+*In this version is just made the blocks for the basics functions.*
 
 ![Image of App](/src/assets/images/screen--v1.PNG)
 
